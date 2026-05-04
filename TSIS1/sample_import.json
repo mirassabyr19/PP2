@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Dana",
+        "email": "dana@gmail.com",
+        "birthday": "2005-05-05",
+        "group": "Friend",
+        "phones": [
+            {"phone": "87001112233", "type": "mobile"},
+            {"phone": "7273332211", "type": "home"}
+        ]
+    },
+    {
+        "name": "Ernar",
+        "email": "ernar@company.kz",
+        "birthday": "2004-09-17",
+        "group": "Work",
+        "phones": [
+            {"phone": "87009998877", "type": "work"}
+        ]
+    }
+]
